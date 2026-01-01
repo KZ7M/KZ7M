@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**KZ7M/KZ7M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring **Machine Learning Engineer** with a deep passion for the entire ML spectrum. My primary focus is on building a strong foundation in **Classical Machine Learning** and **Deep Learning**. I believe in a serious, focused, and detail-oriented approach to work — quality execution is my priority.
 
-Here are some ideas to get you started:
+### 🔭 Currently Working On
+*   Developing a **Python-based trading bot** for Binance, implementing scalping strategies.
+*   Planning and designing a **Deep Learning model** for an upcoming project (details soon!).
+*   Continuously learning and building personal projects to solidify my ML/DL knowledge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+**Primary Language:** `Python`
+**ML/DL Ecosystem:** `PyTorch` | `TensorFlow` | `scikit-learn` | `pandas` | `NumPy`
+**Development & Tools:** `Git` | `Docker` (learning) | `Jupyter Notebook` | `VS Code`
+
+### 💪 Beyond the Code
+When I'm not training models, I'm training myself. I'm an avid **powerlifter** — a discipline that mirrors my professional mindset: focused, consistent, and driven by gradual, measurable improvement.
+
+### 📫 How to Reach Me
+*   **Telegram:** [@mastergaleev](https://t.me/mastergaleev)
+*   **Email:** [leshrakfm@gmail.com](mailto:leshrakfm@gmail.com)
+
+*I'm actively learning and open to interesting ideas, collaborations, or mentorship opportunities in the field of Machine Learning.*
