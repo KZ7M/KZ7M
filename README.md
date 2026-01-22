@@ -16,7 +16,7 @@ I'm an aspiring **Machine Learning Engineer** with a deep passion for the entire
 When I'm not training models, I'm training myself. I'm an avid **powerlifter** — a discipline that mirrors my professional mindset: focused, consistent, and driven by gradual, measurable improvement.
 
 ### 📫 How to Reach Me
-*   **Telegram:** [@mastergaleev](https://t.me/mastergaleev)
+*   **Telegram:** [@mastergaleev](https://t.me/masterg6)
 *   **Email:** [leshrakfm@gmail.com](mailto:leshrakfm@gmail.com)
 
 *I'm actively learning and open to interesting ideas, collaborations, or mentorship opportunities in the field of Machine Learning.*
