@@ -1,11 +1,10 @@
-## 👋 About Me
+# 👋 About Me
 
 I'm an aspiring **Machine Learning Engineer** with a deep passion for the entire ML spectrum. My primary focus is on building a strong foundation in **Classical Machine Learning** and **Deep Learning**. I believe in a serious, focused, and detail-oriented approach to work — quality execution is my priority.
 
 ### 🔭 Currently Working On
-*   Developing a **Python-based trading bot** for Binance, implementing scalping strategies.
-*   Planning and designing a **Deep Learning model** for an upcoming project (details soon!).
-*   Continuously learning and building personal projects to solidify my ML/DL knowledge.
+*   Developing a **trading engine core** for cryptocurrency exchanges — a high-performance backend system for automated trading.
+*   Continuously learning and building personal projects to solidify my ML/DL knowledge (including example projects like a Binance trading bot).
 
 ### 🛠️ Tech Stack & Tools
 **Primary Language:** `Python`
