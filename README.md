@@ -43,5 +43,4 @@
 <p align="center">
   <img src="assets/kurimanjume.gif" width="100" alt="Kurimanju" />
   <br>
-  <sub><i>Powered by 🌰 Kurimanju</i></sub>
-</p>
+  <sub>
