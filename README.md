@@ -41,8 +41,7 @@
   <i>I'm actively learning and open to interesting ideas, collaborations, or mentorship opportunities in the field of Machine Learning.</i>
 </p>
 <p align="center">
-  https://media.tenor.com/7958f2626df1d2c35fd26d1570ba5a1974680288.gif
-  <img src="https://media.tenor.com/7958f2626df1d2c35fd26d1570ba5a1974680288.gif" width="100" alt="Kurimanju" />
+  <img src="https://media.tenor.com/7958f2626df1d2c35fd26d1570ba5a1974680288.gif" width="500" alt="Kurimanju" />
   <br>
   <sub><i>Powered by 🌰 Kurimanju</i></sub>
 </p>
