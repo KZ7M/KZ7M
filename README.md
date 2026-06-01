@@ -6,7 +6,7 @@
 </p>
 <h2 align="center">👋 About Me</h2>
 <div align="center">
-  <img src=".github/assets/kurimanju2.png" width="300" align="right" alt="Kurimanju" />
+  <img src=".github/assets/kurimanju2.png" width="250" align="right" alt="Kurimanju" />
 </div>
 <p align="center">
   I'm an aspiring <b>Machine Learning Engineer</b> with a deep passion for the entire ML spectrum. My primary focus is on building a strong foundation in <b>Classical Machine Learning</b> and <b>Deep Learning</b>. I believe in a serious, focused, and detail-oriented approach to work — quality execution is my priority.
