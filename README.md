@@ -19,15 +19,6 @@
     <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,pandas,numpy,docker,git,vscode,github,jupyter&perline=6" />
   </a>
 </p>
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KZ7M&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KZ7M&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170" />
-</p>
-<h2 align="center">🔥 Streak Stats</h2>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KZ7M&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 <h2 align="center">🌐 3D Contribution Graph</h2>
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="800" />
@@ -41,7 +32,7 @@
   <i>I'm actively learning and open to interesting ideas, collaborations, or mentorship opportunities in the field of Machine Learning.</i>
 </p>
 <p align="center">
-  <img src="https://media.tenor.com/7958f2626df1d2c35fd26d1570ba5a1974680288.gif" width="100" alt="Kurimanju" />
+  <img src="https://media.tenor.com/43bb6012e463af0b7fd62d19e2857eae919358ae.gif" width="100" alt="Kurimanju" />
   <br>
   <sub><i>Powered by 🌰 Kurimanju</i></sub>
 </p>
