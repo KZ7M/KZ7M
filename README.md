@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Building+Trading+Engines+%26+ML+Models;Python+%7C+PyTorch+%7C+TensorFlow" alt="Typing SVG" />
 </p>
 <p align="center">
-  <img src="https://media.tenor.com/7958f2626df1d2c35fd26d1570ba5a1974680288.gif" width="999999999999999999999999" alt="Kurimanju - my profile mascot" />
+  <img src="https://media.tenor.com/7958f2626df1d2c35fd26d1570ba5a1974680288.gif" width="99999999999999999999999999999999999999999999999999999999999999999999999" alt="Kurimanju - my profile mascot" />
 </p>
 <h2 align="center">👋 About Me</h2>
 <p align="center">
