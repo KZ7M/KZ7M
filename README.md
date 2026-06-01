@@ -2,11 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Building+Trading+Engines+%26+ML+Models;Python+%7C+PyTorch+%7C+TensorFlow" alt="Typing SVG" />
 </p>
 <p align="center">
-  <img src=".github/assets/kurimanju1.png" width="200" alt="Kurimanju - my profile mascot" />
+  <img src=".github/assets/kurimanju1.png" width="600" alt="Kurimanju - my profile mascot" />
 </p>
 <h2 align="center">👋 About Me</h2>
 <div align="center">
-  <img src=".github/assets/kurimanju2.png" width="150" align="right" alt="Kurimanju" />
+  <img src=".github/assets/kurimanju2.png" width="500" align="right" alt="Kurimanju" />
 </div>
 <p align="center">
   I'm an aspiring <b>Machine Learning Engineer</b> with a deep passion for the entire ML spectrum. My primary focus is on building a strong foundation in <b>Classical Machine Learning</b> and <b>Deep Learning</b>. I believe in a serious, focused, and detail-oriented approach to work — quality execution is my priority.
@@ -36,7 +36,7 @@
   <i>I'm actively learning and open to interesting ideas, collaborations, or mentorship opportunities in the field of Machine Learning.</i>
 </p>
 <p align="center">
-  <img src=".github/assets/kurimanju3.png" width="120" alt="Kurimanju" />
+  <img src=".github/assets/kurimanju3.png" width="500" alt="Kurimanju" />
   <br>
   <sub><i>Powered by 🌰 Kurimanju</i></sub>
 </p>
