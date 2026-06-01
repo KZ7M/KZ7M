@@ -16,7 +16,7 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,pandas,numpy,docker,git,vscode,github,jupyter&perline=6" />
+      <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,pandas,numpy,docker,git,vscode,github,jupyter&perline=6" />
   </a>
 </p>
 <h2 align="center">🌐 3D Contribution Graph</h2>
