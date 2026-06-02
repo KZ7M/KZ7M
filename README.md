@@ -22,6 +22,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,pandas,numpy,docker,git,vscode,github,jupyter&perline=6" />
   </a>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KZ7M&show_icons=true&theme=radical)
 </p>
 <h2 align="center">🌐 3D Contribution Graph</h2>
 <p align="center">
