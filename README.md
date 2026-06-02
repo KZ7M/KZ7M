@@ -29,7 +29,7 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KZ7M)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub (https://github-readme-stats.vercel.app/api?username=KZ7M)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <h2 align="center">🔥 Streak Stats</h2>
