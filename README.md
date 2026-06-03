@@ -36,8 +36,8 @@
   • <b>Professional:</b> Transitioning into ML Engineering roles<br>
   • <b>Research:</b> <b>Substrate</b> — an RL-based agent with homeostatic drives<br>
   &nbsp;&nbsp;&nbsp;&nbsp;<i>Exploring emergent behavior in artificial systems motivated by survival, curiosity, and adaptation.</i><br>
-  • <b>Infrastructure:</b> <b>LocalLLM</b> — fully local, fully open-source LLM inference stack<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;<i>Zero API calls. Pure compute: quantization, pruning, sparse attention, custom CUDA kernels.</i>
+  • <b>Infrastructure:</b> <b>FurnanceLLM</b> — fully local, fully open-source LLM inference engine<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;<i>Zero API calls. Zero subscriptions. Pure compute: quantization, pruning, sparse attention, custom CUDA kernels.</i>
 </p>
 
 <p align="center">
@@ -45,14 +45,14 @@
 </p>
 
 <p align="center">
-  <sub>🇷🇺 <b>LocalLLM</b> — полностью локальная open-source LLM-система. Никаких API, только оптимизация: квантизация, pruning, sparse attention, кастомные CUDA-ядра. Цель: выжать максимум из consumer hardware. Вдохновлён концепцией локального AI-воркспейса, но реализация — полностью собственная.</sub>
+  <sub>🇷🇺 <b>FurnanceLLM</b> — полностью локальный open-source LLM-движок, созданный мной. Никаких API, никаких подписок, никакого облака — только чистая оптимизация: квантизация, pruning, sparse attention, кастомные CUDA-ядра. Цель: сделать ИИ бесплатным и доступным для каждого, кто имеет компьютер. Демократизация ИИ через оптимизацию.</sub>
 </p>
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,docker,git,github&perline=9" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,docker,git,github,linux,vscode&perline=8" />
   </a>
 </p>
 
