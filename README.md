@@ -36,7 +36,7 @@
   • <b>Professional:</b> Transitioning into ML Engineering roles<br>
   • <b>Research:</b> <b>Substrate</b> — an RL-based agent with homeostatic drives<br>
   &nbsp;&nbsp;&nbsp;&nbsp;<i>Exploring emergent behavior in artificial systems motivated by survival, curiosity, and adaptation.</i><br>
-  • <b>Infrastructure:</b> <b>FurnanceLLM</b> — fully local, fully open-source LLM inference engine<br>
+  • <b>Infrastructure:</b> <b>ForgeLLM</b> — fully local, fully open-source LLM inference engine<br>
   &nbsp;&nbsp;&nbsp;&nbsp;<i>Zero API calls. Zero subscriptions. Pure compute: quantization, pruning, sparse attention, custom CUDA kernels.</i>
 </p>
 
