@@ -35,8 +35,12 @@
 <p align="center">
   • <b>Professional:</b> Transitioning into ML Engineering roles<br>
   • <b>Learning:</b> Deep Learning fundamentals (Fast.ai, Stanford CS231n)<br>
-  • <b>Research:</b> <b>Digital Organism</b> — an RL-based agent with homeostatic drives<br>
+  • <b>Research:</b> <b>Substrate</b> — an RL-based agent with homeostatic drives<br>
   &nbsp;&nbsp;&nbsp;&nbsp;<i>Exploring emergent behavior in artificial systems motivated by survival, curiosity, and adaptation.</i>
+</p>
+
+<p align="center">
+  <sub>🇷🇺 <b>Substrate</b> — исследовательский проект по эмбодиментному познанию. Агенты с гомеостатическими драйвами (энергия, безопасность, любопытство) и наблюдение за эмерджентным поведением. Не игра, не чат-бот — попытка создать минимальный субстрат для цифровой жизни.</sub>
 </p>
 
 <h2 align="center">🛠️ Tech Stack</h2>
@@ -54,6 +58,12 @@
   <b>2027:</b> Transformers + NLP/CV + RL Fundamentals<br>
   <b>2028:</b> Multi-Agent RL + Embodied AI → Master's in China<br>
   <b>2030+:</b> Research in Agent Cognition & AI Safety
+</p>
+
+<h2 align="center">📝 Note on AI Usage</h2>
+
+<p align="center">
+  <i>In my work, AI is used minimally — only for routine code generation and boilerplate. All architecture, research direction, and creative decisions are human-made.</i>
 </p>
 
 <h2 align="center">📫 How to Reach Me</h2>
