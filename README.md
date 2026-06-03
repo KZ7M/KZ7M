@@ -34,13 +34,18 @@
 
 <p align="center">
   • <b>Professional:</b> Transitioning into ML Engineering roles<br>
-  • <b>Learning:</b> Deep Learning fundamentals (Fast.ai, Stanford CS231n)<br>
   • <b>Research:</b> <b>Substrate</b> — an RL-based agent with homeostatic drives<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;<i>Exploring emergent behavior in artificial systems motivated by survival, curiosity, and adaptation.</i>
+  &nbsp;&nbsp;&nbsp;&nbsp;<i>Exploring emergent behavior in artificial systems motivated by survival, curiosity, and adaptation.</i><br>
+  • <b>Infrastructure:</b> <b>LocalLLM</b> — fully local, fully open-source LLM inference stack<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;<i>Zero API calls. Pure compute: quantization, pruning, sparse attention, custom CUDA kernels.</i>
 </p>
 
 <p align="center">
-  <b>Substrate</b> — исследовательский проект по эмбодиментному познанию. Агенты с гомеостатическими драйвами (энергия, безопасность, любопытство) и наблюдение за эмерджентным поведением. Не игра, не чат-бот — попытка создать минимальный субстрат для цифровой жизни.</sub>
+  <sub>🇷🇺 <b>Substrate</b> — исследовательский проект по эмбодиментному познанию. Агенты с гомеостатическими драйвами (энергия, безопасность, любопытство) и наблюдение за эмерджентным поведением. Попытка создать минимальный субстрат для цифровой жизни.</sub>
+</p>
+
+<p align="center">
+  <sub>🇷🇺 <b>LocalLLM</b> — полностью локальная open-source LLM-система. Никаких API, только оптимизация: квантизация, pruning, sparse attention, кастомные CUDA-ядра. Цель: выжать максимум из consumer hardware. Вдохновлён концепцией локального AI-воркспейса, но реализация — полностью собственная.</sub>
 </p>
 
 <h2 align="center">🛠️ Tech Stack</h2>
