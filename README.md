@@ -52,7 +52,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,pandas,numpy,docker,git,github&perline=9" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,docker,git,github&perline=9" />
   </a>
 </p>
 
