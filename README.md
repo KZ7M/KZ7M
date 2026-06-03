@@ -1,64 +1,72 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFAC1C&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Building+Trading+Engines+%26+ML+Models;Python+%7C+PyTorch+%7C+TensorFlow" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFAC1C&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Classical+ML+%E2%86%92+Deep+Learning+%E2%86%92+Embodied+AI;Building+Agents+That+Learn+%26+Adapt" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src=".github/assets/kurimanju1.png" width="600" alt="Kurimanju - my profile mascot" />
+  <img src=".github/assets/kurimanju1.png" width="600" alt="Kurimanju" />
 </p>
 
 <h2 align="center">👋 About Me</h2>
+
 <div align="center">
-  <img src=".github/assets/kurimanju2.png" />
+  <img src=".github/assets/kurimanju2.png" width="400" />
 </div>
+
 <p align="center">
-  I'm an aspiring <b>Machine Learning Engineer</b> with a deep passion for the entire ML spectrum. My primary focus is on building a strong foundation in <b>Classical Machine Learning</b> and <b>Deep Learning</b>. I believe in a serious, focused, and detail-oriented approach to work — quality execution is my priority.
+  <b>ML Engineer</b> with 2 years of enterprise experience and a background in AI systems. 
+  Currently building a foundation in <b>Classical ML</b> and <b>Deep Learning</b> 
+  with a long-term trajectory toward <b>Embodied Cognition</b> and <b>Autonomous Agents</b>.
+</p>
+
+<p align="center">
+  <i>Former test automation engineer → Built a multi-agent workflow system from scratch → AIML.</i>
+</p>
+
+<h2 align="center">🎯 Focus</h2>
+
+<p align="center">
+  <b>Short-term:</b> Classical ML, Deep Learning, PyTorch, Production ML pipelines<br>
+  <b>Mid-term:</b> Reinforcement Learning, LLM Agents, Multi-Agent Systems<br>
+  <b>Long-term:</b> Embodied AI, Digital Cognition, AI Safety
 </p>
 
 <h2 align="center">🔭 Currently Working On</h2>
+
 <p align="center">
-  • Developing a <b>trading engine core</b> for cryptocurrency exchanges — a high-performance backend system for automated trading.<br>
-  • Continuously learning and building personal projects to solidify my ML/DL knowledge.
+  • <b>Professional:</b> Transitioning into ML Engineering roles<br>
+  • <b>Learning:</b> Deep Learning fundamentals (Fast.ai, Stanford CS231n)<br>
+  • <b>Research:</b> <b>Digital Organism</b> — an RL-based agent with homeostatic drives<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;<i>Exploring emergent behavior in artificial systems motivated by survival, curiosity, and adaptation.</i>
 </p>
 
 <h2 align="center">🛠️ Tech Stack</h2>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,pandas,numpy,docker,git,vscode,github,jupyter&perline=6" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,pandas,numpy,docker,git,github&perline=9" />
   </a>
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KZ7M)](https://github.com/anuraghazra/github-readme-stats">
-</p>
+<h2 align="center">📚 Learning Path</h2>
 
-<h2 align="center">🔥 Streak Stats</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KZ7M&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<h2 align="center">📈 Top Languages</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KZ7M&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<h2 align="center">🌐 3D Contribution Graph</h2>
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="800" />
+  <b>2026:</b> Classical ML + Deep Learning + LeetCode<br>
+  <b>2027:</b> Transformers + NLP/CV + RL Fundamentals<br>
+  <b>2028:</b> Multi-Agent RL + Embodied AI → Master's in China<br>
+  <b>2030+:</b> Research in Agent Cognition & AI Safety
 </p>
 
 <h2 align="center">📫 How to Reach Me</h2>
+
 <p align="center">
   <a href="https://t.me/masterg6"><img src="https://img.shields.io/badge/Telegram-@masterg6-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="mailto:leshrakfm@gmail.com"><img src="https://img.shields.io/badge/Email-leshrakfm@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <i>I'm actively learning and open to interesting ideas, collaborations, or mentorship opportunities in the field of Machine Learning.</i>
+  <i>Open to ML Engineering roles, research collaborations, and mentorship in Agent-Based AI.</i>
 </p>
 
 <p align="center">
   <img src=".github/assets/kurimanju3.png" width="500" alt="Kurimanju" />
-  <br>
-  <sub><i>Powered by 🌰 Kurimanju</i></sub>
 </p>
