@@ -9,7 +9,6 @@ Interested in **adaptive agents, artificial cognition and learning systems**.
 
 ### Projects
 
-* **Substrate** — experimental RL project exploring agents with internal drives and adaptive behaviour.
 * **ForgeLLM** — local LLM inference and optimization project.
 
 ### Stack
