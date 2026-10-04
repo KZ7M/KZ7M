@@ -7,9 +7,6 @@ AI undergraduate and software engineer.
 Currently learning and building around **machine learning, deep learning and reinforcement learning**.
 Interested in **adaptive agents, artificial cognition and learning systems**.
 
-### Projects
-
-* **ForgeLLM** — local LLM inference and optimization project.
 
 ### Stack
 
